@@ -1,0 +1,28 @@
+{
+  "name": "myDialog",
+  "version": "0.0.3",
+  "description": "Test Plugin for Android Dialog",
+  "cordova": {
+    "id": "cordova-plugin-mydialog",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Mihir Modi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihir9270/mydialog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mihir9270/mydialog/issues"
+  },
+  "homepage": "https://github.com/mihir9270/mydialog#readme",
+  "dependencies": {
+    "ionic-native": "^2.2.7"
+  }
+}
